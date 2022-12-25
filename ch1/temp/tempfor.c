@@ -4,7 +4,8 @@
 #define UPPER 300
 #define STEP 20
 
-int main () {
+int main () 
+{
   int fahr;
 
   for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP) {

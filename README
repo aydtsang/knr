@@ -1,11 +1,11 @@
 # Basics of C
 
 1. Write the program
-
 ```
 #include <stdio.h>
 
-main() {
+main() 
+{
   printf("Hello World");
 }
 ```
